@@ -1,4 +1,5 @@
 <img src="./assets/screenshots/Flutter%20BMI.png" width="100%">
+https://github.fetch.soft.org/Hash-Studios/Kivy-BMI-App/raw/master/demo/KivyBMI.jpg
 
 # BMI Calculator App
 
