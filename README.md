@@ -11,6 +11,17 @@ One of the first simple apps I created while on my journey to learn Flutter.
 <pre><a href=""></a></pre>
 -->
   
+  ## Features
+
+- Multiple Themes supported (including Dark and Deep Purple themes)
+- Calculate BMI and also display Alert based on your BMI
+- Fully scalable and therfore can be used on multiple devices.
+- Subtle Animations with Flare
+- Toast/Snackbar supported buttons
+- Minimal design with smooth transitions
+- Optimised storage using minimal packages
+- Application size under 15 MB
+
 ### Dependencies
 
 1. [Font Awesome Flutter](https://pub.dev/packages/font_awesome_flutter)
