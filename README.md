@@ -16,8 +16,7 @@ One of the first simple apps I created while on my journey to learn Flutter.
 - Multiple Themes supported (including Dark and Deep Purple themes)
 - Calculate BMI and also display Alert based on your BMI
 - Fully scalable and therfore can be used on multiple devices.
-- Subtle Animations with Flare
-- Toast/Snackbar supported buttons
+- Subtle Animations
 - Minimal design with smooth transitions
 - Optimised storage using minimal packages
 - Application size under 15 MB
